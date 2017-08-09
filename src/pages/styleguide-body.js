@@ -4,6 +4,12 @@ export class StyleguideBody extends Component {
   render() {
     return (
       <article className="styleguide-body">
+        <section className="mb16">
+          <h1>Base dot css</h1>
+          <p><code>base.css</code> is the base stylesheet for <a href="https://urbit.org">Urbit</a>.  </p>
+          <p>Oh blimey. We all met at university, we all went to Leeds together. We were on different courses, but there was a student television station there, which we all became involved in in various capacities. We started making little TV shows together that nobody watched, but it was really good experience as far as writing scripts, editing, filming. Alice and I did a bit of presenting. After that, we very quickly moved down to London, and we all worked together for our first job. We've stayed here ever since and remained friends.</p>
+        </section>
+
         <section>
           <h2>Principles</h2>
 

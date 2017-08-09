@@ -28,15 +28,32 @@ ipad portrait (768 px)	750 px	920 px
 ipad landscape (1024 px)
 */
 
+section {
+  margin: 0 0 2rem;
+  border: none;
+}
 
-
+hr {
+  width: 100%;
+  height: 1rem;
+  border: 0;
+  background-color: #000;
+}
 
 /*
-  Margin spacing utility classes
+  margin spacing utility classes
 */
 
-.nomarg {
+.m0 {
   margin: 0;
+}
+
+.mt2 {
+  margin-top: 2rem;
+}
+
+.mt8 {
+  margin-top: 8rem;
 }
 
 .mb0 {
@@ -81,6 +98,10 @@ ipad landscape (1024 px)
 
 .mb10 {
   margin-bottom: 10rem;
+}
+
+.mb16 {
+  margin-bottom: 16rem;
 }
 
 /*
