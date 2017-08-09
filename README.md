@@ -4,11 +4,11 @@ This is the base set of styles for [Urbit](https://urbit.org).
 
 The goal is to provide a base stylesheet that is
 
-- simple
-- pracitcal
-- and extensible
+- simple,
+- pracitcal,
+- and extensible.
 
-that's it.
+That's it.  You can read a bit more about our thinking [here]().
 
 ## Build instructions
 
@@ -38,8 +38,8 @@ Pull requests are more than welcome.
 
 ## Prior work & influences
 
-[Bootstrap]()
-[Pure.css]()
-[skeleton.css]()
-[Flexbox grid]()
-[Material Design]()
+[Bootstrap]()  
+[Pure.css]()  
+[skeleton.css]()  
+[Flexbox grid]()  
+[Material Design]()  
